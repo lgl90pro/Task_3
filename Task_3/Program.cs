@@ -14,7 +14,7 @@ namespace Task_3
             while (!int.TryParse(Console.ReadLine(), out a))
             {
                 Console.WriteLine("Число не int!\n");
-                Console.Write("Введіть явапвапвапр: ");
+                Console.Write("Введіть GTTERSGTSTSEGT: ");
             }
             Console.Write("Введіть double: ");
             while (!double.TryParse(Console.ReadLine(), out b))
